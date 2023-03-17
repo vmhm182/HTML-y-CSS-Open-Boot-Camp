@@ -1,0 +1,32 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 16px;
+}
+
+.galeria {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 16px;
+    justify-content: center;
+}
+
+.titulo {
+    text-align: center;
+    width: 100%;
+}
+.galeria img {
+    width: 300px;
+    opacity: 0.8;
+}
+
+.galeria img:hover {
+    opacity: 1;
+    animation-timing-function: ease-in-out;
+}
