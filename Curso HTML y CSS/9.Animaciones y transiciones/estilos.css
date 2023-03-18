@@ -1,0 +1,39 @@
+/* Crea un nuevo documento HTML con el título "Animaciones y transiciones en CSS"
+Crea un nuevo fichero CSS e impórtalo en el documento HTML principal
+En el body crea un botón con el atributo class "btn-modern"
+Implementa las líneas necesarias en el CSS para que cuando el ratón pase por encima del botón ocurra lo siguiente hover:
+El botón se traslade -5px en el eje de las Y
+Se añada una sombra
+El color de fondo del botón cambie
+El color del texto cambie, Todo esto con una transición de 0,4s */
+
+* {
+    padding: 0;
+    margin: 0;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.btn-modern {
+    background-color: rgb(43, 113, 244);
+    color: white;
+    border: 0;
+    border-bottom: 3px solid rgb(30, 81, 175) ;
+    padding: 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.4s;
+}
+
+.btn-modern:hover {
+    background-color: rgb(31, 84, 182);
+    color: yellow;
+    border-bottom: 3px solid rgb(21, 58, 126);
+    transform: translateY(5px);
+    box-shadow: 0 0 4px rgb(15, 7, 101);
+}
