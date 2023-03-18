@@ -7,7 +7,7 @@ ___
 
 Durante la cursada estare dando detalle de lo que aprendi en cada una de las siguientes secciones:
 
-1. ### **Introducción a HTML, etiquetas y atributos:**
+1. ### **[Introducción a HTML, etiquetas y atributos:](https://github.com/vmhm182/HTML-y-CSS-Open-Boot-Camp/tree/main/1.Introducci%C3%B3n%20a%20HTML%2C%20etiquetas%20y%20atributos)**
     En esta sección se introduce al alumno al lenguaje de marcado HTML, se aprenden las etiquetas y atributos más comunes utilizados para la creación de páginas web y se explican los conceptos básicos de la estructura y semántica de un documento HTML.
 
 2. ### **Formularios y tablas:** 
@@ -49,7 +49,14 @@ Durante la cursada estare dando detalle de lo que aprendi en cada una de las sig
 14. ### **Presentación proyecto final:**
 
 15. ### **Finalización proyecto final:**
+___
+## **Guia y Correcciones**
 
+Si estas interesado en guiarte de mi proyecto o quieres revisarlo para darme un feedback y algunas correcciones que me ayuden a mejorar mi codigo, puedes clonar el repositorio.
+
+```bash
+https://github.com/vmhm182/HTML-y-CSS-Open-Boot-Camp.git
+```
 ___
 ## **Autor**
 
