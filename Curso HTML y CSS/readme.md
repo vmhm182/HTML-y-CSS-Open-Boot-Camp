@@ -1,4 +1,4 @@
-# **Curso de HTML y CSS en Open Bootcamp - Alumno**
+# **Curso de HTML y CSS en Open Bootcamp**
 
 Este repositorio contiene los archivos y ejercicios realizados durante mi participación en el curso de HTML y CSS en Open Bootcamp.
 
