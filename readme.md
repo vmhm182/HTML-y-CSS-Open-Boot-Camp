@@ -35,7 +35,7 @@ Durante la cursada estare dando detalle de lo que aprendi en cada una de las sig
     En esta sección se aprende cómo crear animaciones y transiciones en CSS para mejorar la experiencia de usuario en una página web.
 
 10. ### **Introducción al diseño responsive:**
-    <!--  en esta sección se enseña cómo hacer que una página web sea responsiva, es decir, que se adapte a diferentes tamaños de pantalla y dispositivos. -->
+    <!--  en esta sección se profundiza en el uso de Flexbox, como crear estructuras con Grid -->
 
 11. ### **El sistema grid de Bootstrap:**
      <!-- en esta sección se profundiza en el sistema grid de Bootstrap, que permite crear diseños flexibles y adaptables a diferentes tamaños de pantalla. -->
@@ -52,7 +52,7 @@ Durante la cursada estare dando detalle de lo que aprendi en cada una de las sig
 ___
 ## **Guia y Correcciones**
 
-Si estas interesado en guiarte de mi proyecto o quieres revisarlo para darme un feedback y algunas correcciones que me ayuden a mejorar mi codigo, puedes clonar el repositorio.
+Si estas interesado en guiarte de mi proyecto o quieres revisarlo para darme un feedback y algunos consejos que me ayuden a mejorar mi codigo, puedes clonar el repositorio.
 
 ```bash
 https://github.com/vmhm182/HTML-y-CSS-Open-Boot-Camp.git
