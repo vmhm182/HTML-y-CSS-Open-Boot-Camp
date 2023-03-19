@@ -34,8 +34,8 @@ Durante la cursada estare dando detalle de lo que aprendi en cada una de las sig
 9. ### **[Animaciones y transiciones:](https://github.com/vmhm182/HTML-y-CSS-Open-Boot-Camp/tree/main/9.Animaciones%20y%20transiciones)**
     En esta sección se aprende cómo crear animaciones y transiciones en CSS para mejorar la experiencia de usuario en una página web.
 
-10. ### **Introducción al diseño responsive:**
-    <!--  en esta sección se profundiza en el uso de Flexbox, como crear estructuras con Grid -->
+10. ### **[Introducción al diseño responsive:](https://github.com/vmhm182/HTML-y-CSS-Open-Boot-Camp/tree/main/10.Introducci%C3%B3n%20al%20dise%C3%B1o%20responsive)**
+     en esta sección se profundiza en el uso de Flexbox, las mediaqueries y como crear estructuras con Grid
 
 11. ### **El sistema grid de Bootstrap:**
      <!-- en esta sección se profundiza en el sistema grid de Bootstrap, que permite crear diseños flexibles y adaptables a diferentes tamaños de pantalla. -->
