@@ -12,7 +12,7 @@ La disposición de los elementos de la barra lateral se vuelva horizontal
 * {
     margin: 0;
     padding: 0;
-    
+   
 }
 
 .aside {
@@ -28,8 +28,8 @@ La disposición de los elementos de la barra lateral se vuelva horizontal
         display: flex;
         justify-content: center;
         align-items: center;
-        grid
     }
+
     
     .item {
         background-color: beige;
@@ -41,7 +41,13 @@ La disposición de los elementos de la barra lateral se vuelva horizontal
         .container {
             display: grid;
             grid-template-rows: 1fr 1fr;
-            background-color: brown;
+            background-color: rgb(186, 84, 84);            
+        }
+
+        .aside {
+            order: 2;
+            flex-direction: row;
+            justify-content: center;
         }
     }
     
@@ -50,7 +56,5 @@ La disposición de los elementos de la barra lateral se vuelva horizontal
             display: grid;
             grid-template-columns: 1fr 2fr;
             background-color: rgb(12, 223, 9);
-            grid-column-end: 3;
-        }      
-        
+        }
     }
