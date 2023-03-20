@@ -37,8 +37,8 @@ Durante la cursada estare dando detalle de lo que aprendi en cada una de las sig
 10. ### **[Introducción al diseño responsive:](https://github.com/vmhm182/HTML-y-CSS-Open-Boot-Camp/tree/main/10.Introducci%C3%B3n%20al%20dise%C3%B1o%20responsive)**
      En esta sección se profundiza en el uso de Flexbox, las mediaqueries y como crear estructuras con Grid
 
-11. ### **El sistema grid de Bootstrap:**
-     <!-- en esta sección se profundiza en el sistema grid de Bootstrap, que permite crear diseños flexibles y adaptables a diferentes tamaños de pantalla. -->
+11. ### **[El sistema grid de Bootstrap:](https://github.com/vmhm182/HTML-y-CSS-Open-Boot-Camp/tree/main/11.El%20sistema%20grid%20de%20Bootstrap)**
+     En esta sección se profundiza en el sistema grid de Bootstrap, que permite crear diseños flexibles y adaptables a diferentes tamaños de pantalla.
 
 12. ### **Otros aspectos de interés de Bootstrap:**
     <!--  en esta sección se exploran otros aspectos útiles de Bootstrap como los componentes de navegación, tipografía, iconos y la personalización de los estilos. -->
