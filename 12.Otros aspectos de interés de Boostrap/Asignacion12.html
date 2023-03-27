@@ -34,18 +34,31 @@
         Tu email en el footer -->
 
     <div class="container">
-
       <!-- Seccion 1 -->
 
       <div class="bg-light p-5 rounded-3">
         <div class="container-fluid py-5">
-          <h1 class="display-5 fw-bold">Custom Jumbotron</h1>
+          <h1 class="display-5 fw-bold">Este es un Jumbotron</h1>
           <p class="col-md-8">
-            Using a series of utilities, you can create this jumbotron, just
-            like the one in previous versions of Bootstrap. Check out the
-            examples below for how you can remix and restyle it to your liking.
+           En esta seccion estaremos poniendo a prueba mis conocimientos sobre la construccion de un Jumbotron y un modal con el framework Bootstrap
           </p>
-          <button class="btn btn-primary btn-lg">Example Button</button>
+          <button
+            type="button"
+            class="btn btn-primary btn-lg"
+            data-bs-toggle="modal"
+            data-bs-target="#exampleModal"
+          >
+            Lanzador del Modal
+          </button>
+          <div class="modal" id="exampleModal">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header"> Header del Modal</div>
+                    <div class="modal-body">Body del Modal</div>
+                    <div class="modal-footer">Footer del  Modal</div>
+                </div>
+            </div>
+          </div>
         </div>
       </div>
 
@@ -87,7 +100,7 @@
           ></textarea>
         </div>
 
-        <button type="submit" class="btn btn-primary">Iniciar sesion</button>
+        <button type="submit" class="btn btn-primary">Subir Informacion</button>
       </form>
 
       <!-- Fin de la Seccion 2 -->
@@ -103,14 +116,14 @@
         <div class="card-body">
           <h5 class="card-title">Victor Hernandez</h5>
           <p class="card-text">
-            Soy estudinte de Open BootCamp, estoy cursando el modulo de HTML y CSS
+            Soy estudinte de Open BootCamp, estoy cursando el modulo de HTML y
+            CSS
           </p>
         </div>
         <div class="card-footer">@vmhm182gmail.com</div>
       </div>
 
       <!-- Fin de la Seccion 3 -->
-    
     </div>
 
     <script
